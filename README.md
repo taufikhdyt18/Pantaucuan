@@ -21,7 +21,7 @@
 
 - Halaman Utama
 
-![gambar](ss/tampilan_splash_screen.png)
+![gambar](ss/tampilan_awal.png)
 
 - Halaman Tambah Data
 
