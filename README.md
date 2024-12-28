@@ -11,21 +11,21 @@
 ![gambar](ss/warna.png)
 
 ### UI
-![gambar](ss/ui.png)
+![gambar](ss/ui2.png)
 
 ### Eksekusi Android Studio
 
 - Splash Screen
 
-![gambar](ss/tampilan_splash_screen.png)
+![gambar](ss/spl4ash.png)
 
 - Halaman Utama
 
-![gambar](ss/tampilan_awal.png)
+![gambar](ss/h0me.png)
 
 - Halaman Tambah Data
 
-![gambar](ss/tampilan_add_data.png)
+![gambar](ss/4dd_data.png)
 
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
