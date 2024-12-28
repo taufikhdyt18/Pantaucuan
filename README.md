@@ -17,7 +17,7 @@
 
 - Splash Screen
 
-![gambar](ss/spl4ash.png)
+![gambar](ss/spl4sh.png)
 
 - Halaman Utama
 
