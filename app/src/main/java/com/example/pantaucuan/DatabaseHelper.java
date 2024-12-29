@@ -9,7 +9,11 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.ArrayList;
 import java.util.List;
-
+/**
+ * Created by Taufik Hidayat
+ ig:@tfkkhdytt_
+ on 29-12-2024.
+ */
 public class DatabaseHelper extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "PantauCuan.db";
