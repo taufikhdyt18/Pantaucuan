@@ -11,6 +11,11 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
+/**
+ * Created by Taufik Hidayat
+ ig:@tfkkhdytt_
+ on 29-12-2024.
+ */
 
 public class AddDataActivity extends AppCompatActivity {
     private EditText etKeterangan, etTanggal, etJumlah;
