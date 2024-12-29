@@ -2,3 +2,8 @@
 plugins {
     id("com.android.application") version "8.1.4" apply false
 }
+/**
+ * Created by Taufik Hidayat
+ ig:@tfkkhdytt_
+ on 29-12-2024.
+ */
