@@ -15,3 +15,8 @@ dependencyResolutionManagement {
 
 rootProject.name = "pantaucuan"
 include(":app")
+/**
+ * Created by Taufik Hidayat
+ ig:@tfkkhdytt_
+ on 29-12-2024.
+ */
