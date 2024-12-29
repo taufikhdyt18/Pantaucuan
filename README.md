@@ -8,24 +8,24 @@
 
 
 ### Warna&Font UI
-![gambar](ss/Frame 1.png)
+![gambar](ss/Frame1.png)
 
 ### UI
-![gambar](ss/Frame 2.png)
+![gambar](ss/Frame2.png)
 
 ### Eksekusi Android Studio
 
 - Splash Screen
 
-![gambar](ss/Frame 3.png)
+![gambar](ss/Frame3.png)
 
 - Halaman Utama
 
-![gambar](ss/Frame 4.png)
+![gambar](ss/Frame4.png)
 
 - Halaman Tambah Data
 
-![gambar](ss/Frame 5.png)
+![gambar](ss/Frame5.png)
 
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
