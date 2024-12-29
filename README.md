@@ -6,7 +6,7 @@
 | Kelas | TI.23.A6
 
 ### Story Board
-![gambar](ss/storyboard.png)
+![gambar](ss/Frame6.png)
 
 - **1.** Tampilan pembuka aplikasi dengan logo "Pantau Cuan" dan slogan "Kelola keuanganmu dengan mudah". Latar belakang gradien biru gelap.
 
@@ -16,7 +16,7 @@
 Terdapat tombol "Simpan" untuk menyimpan data baru.
 
 ### Mock Up
-![gambar](ss/mockup.png)
+![gambar](ss/Frame7.png)
 
 
 ### Warna&Font UI
