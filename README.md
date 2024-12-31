@@ -16,14 +16,14 @@
 Terdapat tombol "Simpan" untuk menyimpan data baru.
 
 ### Mock Up
-![gambar](ss/Frame7.png)
+![gambar](ss/ss7.png)
 
 
 ### Warna&Font UI
-![gambar](ss/Frame8.png)
+![gambar](ss/ss8.png)
 
 ### UI
-![gambar](ss/Frame9.png)
+![gambar](ss/ss9.png)
 
 ### Eksekusi Android Studio
 
