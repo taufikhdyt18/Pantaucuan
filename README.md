@@ -37,7 +37,7 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 
 - Halaman Tambah Data
 
-![gambar](ss/ss12.png)
+![gambar](ss/s12.png)
 
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
