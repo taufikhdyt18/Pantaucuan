@@ -29,15 +29,15 @@ Terdapat tombol "Simpan" untuk menyimpan data baru.
 
 - Splash Screen
 
-![gambar](ss/Frame3.png)
+![gambar](ss/ss10.png)
 
 - Halaman Utama
 
-![gambar](ss/Frame4.png)
+![gambar](ss/ss11.png)
 
 - Halaman Tambah Data
 
-![gambar](ss/Frame5.png)
+![gambar](ss/ss12.png)
 
 ### Penjelasan Fitur Aplikasi Pantau Cuan
 
