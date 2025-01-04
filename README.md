@@ -1,4 +1,3 @@
-## UAS Aplikasi PantauCuan 
 | UAS  |  Pemrograman Mobile 1  
 |-------|---------
 | **NIM**   | 312310576
