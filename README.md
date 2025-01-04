@@ -1,9 +1,11 @@
 ## UAS Aplikasi PantauCuan 
 | UAS  |  Pemrograman Mobile 1  
 |-------|---------
-| NIM   | 312310576
-| Nama  | Taufik Hidayat
-| Kelas | TI.23.A6
+| **NIM**   | 312310576
+| **Nama** | Taufik Hidayat
+| **Kelas** | TI.23.A6
+| **Mata Kuliah**    |     Pemrograman Mobile 1    |
+| **Dosen Pengampu** |Donny Maulana, S.Kom., M.M.S.I  |
 
 ### Story Board
 ![gambar](ss/ss6.png)
