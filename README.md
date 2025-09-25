@@ -77,7 +77,7 @@ Layar ini memungkinkan pengguna untuk mencatat transaksi baru.
 
 - **Frontend**: XML
 - **Backend**: Java
-- **Database**: SQLite
+- **Database**: Firebase by Google
 - **Tools**: Git, GitHub, Android Studio
 
 
